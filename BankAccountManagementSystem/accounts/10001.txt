@@ -1,0 +1,7 @@
+First Name|xinxin
+Last Name|huang
+Address|11 hed
+Phone|1232123432
+Email|jocelynhuang193@outlook.com
+AccountNo|10001
+Balance|0

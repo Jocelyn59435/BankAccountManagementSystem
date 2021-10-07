@@ -1,0 +1,14 @@
+C:\Users\Jocelyn Huang\Documents\IT\2021SPR\.net\Ass 1\BankAccountManagementSystem\BankAccountManagementSystem\bin\Debug\BankAccountManagementSystem.exe.config
+C:\Users\Jocelyn Huang\Documents\IT\2021SPR\.net\Ass 1\BankAccountManagementSystem\BankAccountManagementSystem\bin\Debug\BankAccountManagementSystem.exe
+C:\Users\Jocelyn Huang\Documents\IT\2021SPR\.net\Ass 1\BankAccountManagementSystem\BankAccountManagementSystem\bin\Debug\BankAccountManagementSystem.pdb
+C:\Users\Jocelyn Huang\Documents\IT\2021SPR\.net\Ass 1\BankAccountManagementSystem\BankAccountManagementSystem\obj\Debug\BankAccountManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Jocelyn Huang\Documents\IT\2021SPR\.net\Ass 1\BankAccountManagementSystem\BankAccountManagementSystem\obj\Debug\BankAccountManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jocelyn Huang\Documents\IT\2021SPR\.net\Ass 1\BankAccountManagementSystem\BankAccountManagementSystem\obj\Debug\BankAccountManagementSystem.exe
+C:\Users\Jocelyn Huang\Documents\IT\2021SPR\.net\Ass 1\BankAccountManagementSystem\BankAccountManagementSystem\obj\Debug\BankAccountManagementSystem.pdb
+C:\Users\Jocelyn Huang\Downloads\13718768_Ass1\BankAccountManagementSystem\bin\Debug\BankAccountManagementSystem.exe.config
+C:\Users\Jocelyn Huang\Downloads\13718768_Ass1\BankAccountManagementSystem\bin\Debug\BankAccountManagementSystem.exe
+C:\Users\Jocelyn Huang\Downloads\13718768_Ass1\BankAccountManagementSystem\bin\Debug\BankAccountManagementSystem.pdb
+C:\Users\Jocelyn Huang\Downloads\13718768_Ass1\BankAccountManagementSystem\obj\Debug\BankAccountManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Jocelyn Huang\Downloads\13718768_Ass1\BankAccountManagementSystem\obj\Debug\BankAccountManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jocelyn Huang\Downloads\13718768_Ass1\BankAccountManagementSystem\obj\Debug\BankAccountManagementSystem.exe
+C:\Users\Jocelyn Huang\Downloads\13718768_Ass1\BankAccountManagementSystem\obj\Debug\BankAccountManagementSystem.pdb

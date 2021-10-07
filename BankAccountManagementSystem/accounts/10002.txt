@@ -1,0 +1,12 @@
+First Name|xinxin
+Last Name|huang
+Address|11 hed
+Phone|1234567890
+Email|jocelynhuang193@outlook.com
+AccountNo|10002
+Balance|6000
+09.30.2021|Deposit|10000|10000
+09.30.2021|Withdraw|3000|7000
+09.30.2021|Deposit|3000|10000
+09.30.2021|Withdraw|1000|9000
+09.30.2021|Withdraw|3000|6000
